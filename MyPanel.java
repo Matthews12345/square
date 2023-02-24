@@ -1,4 +1,4 @@
-package step_5;
+package square;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
